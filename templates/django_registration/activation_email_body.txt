@@ -1,0 +1,5 @@
+scheme: {{ scheme }}
+activation_key: {{ activation_key }}
+activation_link: {{site}}/accounts/activate/{{ activation_key }}/
+expiration_days: {{ expiration_days }}
+site: {{ site }}
